@@ -40,6 +40,7 @@ public class Calculator {
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
 		// noch ein Kommentar :)
+		// und noch einer!
 		new Equals();
 		new Minus();
 		new Plus();
